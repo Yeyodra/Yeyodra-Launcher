@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUkpueUY0Qm12amJNZitwcUFMeTlnUXo1REdDdXNLbXpNa1VUT3BOTVVlK2Y0ZnFHTklzdytmT0dpU1ppREx3c0JYOGxjVC9pVmVTSW5NYTM0bGNZb29HUFIxbXZpS2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTU2MDIyCWZpbGU6WWV5b2RyYV8xLjAuMV94NjQtc2V0dXAuZXhlCnBtZHpQZHV5OVRMa240YzM4MGU4RCtiZEpCVS9oVzFZYTlxQXdOeTFYd2h2Z1MvU1owZWpHajg5UXNvejFHV3R1QWtDUXFsVzI1V1VvN01iSnlZeEJnPT0K",
-                                             "url":  "https://github.com/Yeyodra/Yeyodra-Launcher/releases/download/v1.0.1/Yeyodra_1.0.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUkpueUY0Qm12alJSL2Rqb0ZFeHFEcHZ3em9QY3VZQU5mY1l1LzF0dXJ5QldZdGdxTjhWV2ZnL2tmcFRxa25XQ3Jud3FqSkxieWc3eE1za2xTK2dIazVNaXNMNUI4dFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTU3MTAyCWZpbGU6WWV5b2RyYV8xLjAuMl94NjQtc2V0dXAuZXhlCmVJdWhyc2RycU9UUDZSSWxKNzc4SkZaSUxGbXpzaHRXMVhGMUN1Tk54Y2JkOFROd1lPKzFZb3hzZGJoTUFTcG1zUjVQSThjaW8wYlBOcXVxMnpyQ0JRPT0K",
+                                             "url":  "https://github.com/Yeyodra/Yeyodra-Launcher/releases/download/v1.0.2/Yeyodra_1.0.2_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2025-12-24T06:00:22Z",
-    "version":  "1.0.1",
-    "notes":  "New features and bug fixes"
+    "pub_date":  "2025-12-24T06:18:22Z",
+    "version":  "1.0.2",
+    "notes":  "perbaiki translate eng"
 }
