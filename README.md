@@ -1,216 +1,121 @@
-<div align="center">
+# Yeyodra Launcher
 
-# 🎮 Yeyodra Game Launcher
+<p align="center">
+  <img src="public/icon.png" alt="Yeyodra Logo" width="120" />
+</p>
 
-**A Modern, Feature-Rich Game Launcher for Windows**
+<p align="center">
+  <strong>Modern Game Launcher</strong> - A feature-rich desktop application for managing your game library
+</p>
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)]()
-[![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/yeyodra/total.svg)]()
-[![Version](https://img.shields.io/github/v/release/YOUR_USERNAME/yeyodra)]()
-
-[Features](#-features) • [Screenshots](#-screenshots) • [Download](#-download) • [Installation](#-installation) • [FAQ](#-faq)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/version-2.0.0-blue" alt="Version" />
+  <img src="https://img.shields.io/badge/platform-Windows-lightgrey" alt="Platform" />
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License" />
+</p>
 
 ---
 
 ## ✨ Features
 
-### 🎯 Core Features
-- **📚 Game Library Management** - Organize and manage your game collection in one place
-- **🔍 Game Catalogue** - Browse and discover games from multiple sources
-- **⬇️ Advanced Download Manager** - Powered by aria2c for blazing-fast multi-threaded downloads
-- **☁️ Cloud Save Sync** - Backup and restore your game saves to the cloud (Admin feature)
-- **🎨 Modern UI** - Clean, intuitive interface with dark theme
-- **🖼️ Custom Profiles** - Personalize your profile with custom avatars and banners
+### 🎮 Game Library Management
+- Import games from Steam library automatically
+- Add custom games manually
+- Organize and manage your game collection
+- View detailed game information with screenshots and descriptions
 
-### 🛠️ Advanced Features
-- **🎮 Custom Game Support** - Add non-catalogue games to your library
-- **📊 Game Statistics** - Track your playtime and game collection stats
-- **🔧 Game Cracking Tools** - Integrated cracking utilities for convenience
-- **💾 Save Game Backup** - Powered by Ludusavi for comprehensive save backup
-- **🎯 DLC Management** - Manage game DLCs separately
-- **🔐 License System** - Secure license activation and validation
+### 🔧 Game Fixes & Bypass
+- Apply online fixes for games
+- Bypass system for game compatibility
+- Fix history tracking with detailed logs
+- One-click unfix/restore functionality
 
-### 🚀 Performance
-- **⚡ Lightning Fast** - Built with Rust backend for optimal performance
-- **🔄 Multi-threaded Downloads** - Download multiple files simultaneously
-- **💪 Low Resource Usage** - Efficient memory and CPU utilization
-- **🎯 Smart Caching** - Intelligent data caching for faster load times
+### ☁️ Cloud Save
+- Sync game saves across devices
+- Powered by Ludusavi integration
+- Automatic backup and restore
+- Cloud storage management
+
+### 👥 Account Sharing
+- Share game accounts securely
+- Admin panel for account management
+- User authentication system
+
+### 🏆 Achievement Unlocker
+- View game achievements
+- Achievement management tools
+- Steam achievement integration
+
+### 📥 Download Management
+- Multiple download sources support
+- Repack downloads with progress tracking
+- Aria2 integration for fast downloads
+- Pause, resume, and cancel downloads
+
+### 🔄 Auto Updater
+- Automatic update checking
+- In-app update installation
+- Changelog viewer
+- Seamless update experience
+
+### 🌍 Internationalization
+- Multi-language support
+- Easy language switching
+
+### 🎨 Modern UI
+- Dark theme design
+- Smooth animations
+- Responsive layout
+- Custom window controls
 
 ---
 
 ## 📸 Screenshots
 
-<div align="center">
-
-### Home Dashboard
-![Home Screenshot](screenshots/home.png)
-*Clean and intuitive home dashboard showing your game library*
+### Home
+![Home](screenshots/home.png)
 
 ### Game Catalogue
-![Catalogue Screenshot](screenshots/catalogue.png)
-*Browse thousands of games with advanced filtering options*
+![Catalogue](screenshots/catalogue.png)
 
 ### Game Details
-![Game Details Screenshot](screenshots/game-details.png)
-*Detailed game information with screenshots and download options*
+![Game Details](screenshots/game-details.png)
 
-### Download Manager
-![Downloads Screenshot](screenshots/downloads.png)
-*Monitor all your downloads with real-time progress*
+### Downloads
+![Downloads](screenshots/downloads.png)
 
-### User Profile
-![Profile Screenshot](screenshots/profile.png)
-*Customize your profile with avatars and banners*
-
-
-</div>
+### Profile
+![Profile](screenshots/profile.png)
 
 ---
 
-## 📥 Download
+## 💻 Installation
 
-
-### System Requirements
-
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| **OS** | Windows 10 (64-bit) | Windows 11 |
-| **RAM** | 4 GB | 6 GB or more |
-| **Storage** |  70 MB free space | 300 MB+  |
-| **Internet** | Required for downloads | Broadband connection |
+1. Download the latest release from [Releases](https://github.com/Yeyodra/Yeyodra-Launcher/releases)
+2. Run the installer (`Yeyodra_x.x.x_x64-setup.exe`)
+3. Follow the installation wizard
+4. Launch Yeyodra from your desktop or start menu
 
 ---
 
-## 🚀 Installation
+## 🔄 Updates
 
-### Quick Start
-
-1. **Download** the latest installer from [Releases](https://github.com/itsBintang/yeyodra/releases)
-2. **Run** the installer (`Yeyodra-Setup-x.x.x.exe`)
-3. **Follow** the installation wizard
-4. **Launch** Yeyodra and activate your license
-5. **Enjoy!** Start managing your game library
-
-### First Time Setup
-
-1. **License Activation**
-   - Enter your license key when prompted
-   - Contact support if you don't have a license
-
-2. **Configure Settings**
-   - Set your preferred download directory
-   - Configure aria2c download settings
-   - Customize interface preferences
-
-3. **Add Games**
-   - Browse the catalogue to find games
-   - Add custom games via the "+" button in library
-   - Import existing games from other launchers
+Yeyodra includes an auto-updater. When a new version is available, you'll be notified and can install it directly from the app.
 
 ---
 
-## 🎮 Usage Guide
+## 📄 License
 
-### Adding Games to Library
-
-**From Catalogue:**
-1. Go to **Catalogue** section
-2. Browse or search for your game
-3. Click on the game card
-4. Click **Download** button
-5. Game will be added to your library
-
-**Custom Games:**
-1. Click the **+** button in "MY LIBRARY" section
-2. Browse and select game executable
-3. Enter game title (auto-filled from filename)
-4. Click **Add Game**
-
-### Managing Downloads
-
-- **Pause/Resume** downloads anytime
-- **Queue management** with automatic processing
-- **Download history** tracking
-- **Bandwidth control** in settings
-
-### Cloud Save Features (Admin)
-
-- **Backup saves** to cloud storage
-- **Restore saves** across devices
-- **Auto-sync** option available
-- **Version history** for save files
+MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-## ⚙️ Configuration
+## 📞 Support
 
-### Download Settings
-
-Configure aria2c for optimal performance:
-
-```
-Max Connections: 16 (recommended)
-Download Directory: Custom path
-Auto-start downloads: Enabled
-```
-
-### Game Paths
-
-Default paths:
-- **Games**: `C:\Users\YourName\Documents\Yeyodra\games`
-- **Downloads**: `C:\Users\YourName\Downloads`
-- **Backups**: `C:\Users\YourName\AppData\Local\Yeyodra\backups`
+If you encounter any issues or have questions, please open an issue on GitHub.
 
 ---
 
-
-## 🛠️ Built With
-
-- **[Tauri](https://tauri.app/)** - Rust-based desktop framework
-- **[React](https://reactjs.org/)** - UI framework
-- **[TypeScript](https://www.typescriptlang.org/)** - Type-safe JavaScript
-- **[Rust](https://www.rust-lang.org/)** - Backend language
-- **[aria2c](https://aria2.github.io/)** - Download engine
-- **[Ludusavi](https://github.com/mtkennerly/ludusavi)** - Save backup utility
-- **[Vite](https://vitejs.dev/)** - Build tool
-
----
-
-## 🔐 Security & Privacy
-
-- 🔒 **License Validation** - Secure license verification system
-- 🛡️ **Data Protection** - All user data stored locally
-- 🔐 **Encrypted Cloud Saves** - Cloud backups are encrypted
-- 🚫 **No Telemetry** - We don't collect usage data
-- ✅ **Open Source** - Code available for review
-
----
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
----
-
-## 📊 Statistics
-
-<div align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/yeyodra?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/yeyodra?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/YOUR_USERNAME/yeyodra?style=social)
-
-</div>
-
----
-
-
-
-
+<p align="center">
+  Made with ❤️ by Yeyodra Team
+</p>
