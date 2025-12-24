@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUkpueUY0Qm12amZ6MGE3azRVQlFXYXlKM2NNajdSaURybkJzOUJqTXIvd2NBZHUvdWMvLy9NYVNpVFFtdW82L1MwOWF1TGt6RFc4VHNQMEhuSklhS2F4aFlKYVRXTUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTU0MTk0CWZpbGU6WWV5b2RyYV8wLjIuMF94NjQtc2V0dXAuZXhlCjRnNjlqODVabXpnSXdOb1E1eTZ2ano4ZlNLVFZKTlFqbElQMzZaU2NLT1hqbmZzd0xrZHhJbGluNThHMGljQ1pZRUlHMkVXUTY4cUYvT25jaWJVZERnPT0K",
-                                             "url":  "https://github.com/Yeyodra/Yeyodra-Launcher/releases/download/v0.2.0/Yeyodra_0.2.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUkpueUY0Qm12amJNZitwcUFMeTlnUXo1REdDdXNLbXpNa1VUT3BOTVVlK2Y0ZnFHTklzdytmT0dpU1ppREx3c0JYOGxjVC9pVmVTSW5NYTM0bGNZb29HUFIxbXZpS2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NTU2MDIyCWZpbGU6WWV5b2RyYV8xLjAuMV94NjQtc2V0dXAuZXhlCnBtZHpQZHV5OVRMa240YzM4MGU4RCtiZEpCVS9oVzFZYTlxQXdOeTFYd2h2Z1MvU1owZWpHajg5UXNvejFHV3R1QWtDUXFsVzI1V1VvN01iSnlZeEJnPT0K",
+                                             "url":  "https://github.com/Yeyodra/Yeyodra-Launcher/releases/download/v1.0.1/Yeyodra_1.0.1_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2025-12-24T05:29:54Z",
-    "version":  "0.2.0",
-    "notes":  "Auto-updater feature added"
+    "pub_date":  "2025-12-24T06:00:22Z",
+    "version":  "1.0.1",
+    "notes":  "New features and bug fixes"
 }
